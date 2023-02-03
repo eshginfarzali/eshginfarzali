@@ -1,7 +1,7 @@
 <!-- https://user-images.githubusercontent.com/85007480/216601675-ee4da430-8146-48b6-bfa7-752e571b7dc2.gif -->
 <!-- https://user-images.githubusercontent.com/113392926/216329899-d10d0b23-5129-48fb-a633-a00672ae5388.gif -->
 
-https://user-images.githubusercontent.com/85007480/216603975-dd94e9e3-17c0-468e-a19b-73f185ded60d.gif
+
 
 
 ⚡️ Hi there! I'm a Front-End Developer who's always pushing the limits of what's possible on the web.
@@ -13,7 +13,8 @@ https://user-images.githubusercontent.com/85007480/216603975-dd94e9e3-17c0-468e-
 🚶‍♀️ When I'm not coding, you can find me exploring the great outdoors, trying out new recipes, or just kicking back and relaxing with a good book.
 
 💬 Let's connect and create something amazing!
-
+<!-- https://user-images.githubusercontent.com/85007480/216603975-dd94e9e3-17c0-468e-a19b-73f185ded60d.gif -->
+![216329899-d10d0b23-5129-48fb-a633-a00672ae5388](https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif)
 
 <!--
 **eshginfarzali/eshginfarzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
