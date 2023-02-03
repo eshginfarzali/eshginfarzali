@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 https://user-images.githubusercontent.com/85007480/216601675-ee4da430-8146-48b6-bfa7-752e571b7dc2.mp4
 
 
