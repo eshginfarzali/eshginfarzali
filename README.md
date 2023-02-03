@@ -1,6 +1,5 @@
-<!-- https://user-images.githubusercontent.com/85007480/216601675-ee4da430-8146-48b6-bfa7-752e571b7dc2.gif -->
-<!-- https://user-images.githubusercontent.com/113392926/216329899-d10d0b23-5129-48fb-a633-a00672ae5388.gif -->
 
+![Abstract Technology Profile LinkedIn Banner](https://user-images.githubusercontent.com/85007480/216609735-5f215427-d067-424a-b556-4601b87a3be1.gif)
 
 
 
@@ -13,20 +12,6 @@
 🚶‍♀️ When I'm not coding, you can find me exploring the great outdoors, trying out new recipes, or just kicking back and relaxing with a good book.
 
 💬 Let's connect and create something amazing!
-<!-- https://user-images.githubusercontent.com/85007480/216603975-dd94e9e3-17c0-468e-a19b-73f185ded60d.gif -->
 ![216329899-d10d0b23-5129-48fb-a633-a00672ae5388](https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif)
 
-<!--
-**eshginfarzali/eshginfarzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A
