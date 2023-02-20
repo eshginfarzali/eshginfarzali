@@ -19,4 +19,4 @@
 
 ## 🏆 Github Profile Trophy
 
-<p align="left"> <a href="https://github.com/muradorucov/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muradorucov&margin-w=15" alt="bbarisbolat" /></a> </p>
+<p align="left"> <a href="https://github.com/eshginfarzali/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshginfarzali&margin-w=15" alt="bbarisbolat" /></a> </p>
