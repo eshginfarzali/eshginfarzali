@@ -17,3 +17,6 @@
 ![216329899-d10d0b23-5129-48fb-a633-a00672ae5388](https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif)
 
 
+## 🏆 Github Profile Trophy
+
+<p align="left"> <a href="https://github.com/muradorucov/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muradorucov&margin-w=15" alt="bbarisbolat" /></a> </p>
