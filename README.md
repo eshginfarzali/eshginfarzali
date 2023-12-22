@@ -5,7 +5,7 @@
 
 ⚡️ Hi there! I'm a Front-End Developer who's always pushing the limits of what's possible on the web.
 
-💻 I specialize in HTML, CSS, JavaScript and ReactJS, and I have a passion for creating user-friendly websites and applications that look and work great on any device.
+💻 I specialize in HTML, CSS, JavaScript and ReactJS(NextJs), React Native, Nodejs(ExpressJs and NestJs) and I have a passion for creating user-friendly websites and applications that look and work great on any device.
 
 🌱 I'm always learning and experimenting with new technologies, and I love to collaborate with others to bring their ideas to life.
 
