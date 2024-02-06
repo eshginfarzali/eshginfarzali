@@ -1,6 +1,4 @@
 
-<!-- ![Abstract Technology Profile LinkedIn Banner](https://user-images.githubusercontent.com/85007480/216609735-5f215427-d067-424a-b556-4601b87a3be1.gif)
- -->
 
 
 ⚡️ Hi there! I'm a Front-End Developer who's always pushing the limits of what's possible on the web.
