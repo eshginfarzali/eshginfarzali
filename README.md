@@ -1,35 +1,33 @@
-# Hi there, I'm Eshgin! 👋 
+# Hi there, I'm Eshgin Farzaliyev 👋
 
 **Senior Software Engineer | Full-Stack Developer | Founder of ESTech Group LLC**
 
+---
+
+### 🚀 About Me
+- 📱 **Mobile Development:** Specialist in **React Native**, **Expo**, and native **Swift/Kotlin**.
+- 💻 **Backend Systems:** Building scalable architectures with **Node.js** and **NestJS**.
+- 🤖 **Automation:** Developer of AI-driven tools and data scrapers (e.g., **Smart Auto Bot**).
+- 🏢 **Enterprise:** Currently leading **ESTech Group LLC**, providing ERP and manufacturing solutions.
+
+### 🛠 Tech Stack
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 <p align="left">
-<a href="https://github.com/eshginfarzali">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshginfarzali&show_icons=true&theme=radical&rank_icon=github&display_format=grouped" alt="Eshgin's GitHub Stats" />
-</a>
-<a href="https://github.com/eshginfarzali">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshginfarzali&layout=compact&theme=radical" alt="Most Used Languages" />
-</a>
+  <img src="https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif" width="200" alt="Snake Animation">
 </p>
-
-### 🚀 What I Do
-- 📱 **Mobile Development:** Architecting high-performance cross-platform apps using React Native, Expo, and native technologies (Swift/Kotlin).
-- 💻 **Backend Systems:** Building scalable microservices and robust APIs with Node.js and NestJS.
-- 🤖 **AI & Automation:** Developing AI-driven agents, workflow automations, and data scraping solutions like "Smart Auto Bot."
-- 🏢 **Enterprise Solutions:** Leading ESTech Group LLC to deliver custom ERP and Inventory Management systems for industrial manufacturing.
-
-### 🐍 GitHub Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif">
-  <img alt="GitHub Contribution Snake" src="https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif">
-</picture>
 
 ---
 
-### 🛠 Tech Stack
-`React Native` `TypeScript` `Node.js` `NestJS` `PostgreSQL` `Docker` `AWS` `Firebase` `Swift` `Kotlin`
+### 📫 Contact & Connections
+- 🏢 **Company:** <a href="https://estechgroupllc.com/en" target="_blank">ESTech Group LLC</a>
+- 📧 **Email:** <a href="mailto:eshgin.farzaliyev@estechgroupllc.com">eshgin.farzaliyev@estechgroupllc.com</a>
+- 📍 **Headquarters:** Albuquerque, New Mexico, USA 🇺🇸
+- 💼 **Focus:** Enterprise Solutions & Digital Transformation
 
-### 📫 Let's Connect
-- **Company:** ESTech Group LLC
-- **Specialty:** Enterprise Solutions & Software Consultancy
-- **Focus:** Digital Transformation & Automation
+---
+*“Simplicity is the ultimate sophistication.”*
