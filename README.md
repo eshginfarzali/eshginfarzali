@@ -24,8 +24,8 @@
 ---
 
 ### 📫 Contact & Connections
-- 🏢 **Company:** <a href="https://estechgroupllc.com/en" target="_blank">ESTech Group LLC</a>
-- 📧 **Email:** <a href="mailto:eshgin.farzaliyev@estechgroupllc.com">eshgin.farzaliyev@estechgroupllc.com</a>
+- 🏢 **Company:** [ESTech Group LLC ↗️](https://estechgroupllc.com/en)
+- 📧 **Email:** [eshgin.farzaliyev@estechgroupllc.com](mailto:eshgin.farzaliyev@estechgroupllc.com)
 - 📍 **Headquarters:** Albuquerque, New Mexico, USA 🇺🇸
 - 💼 **Focus:** Enterprise Solutions & Digital Transformation
 
